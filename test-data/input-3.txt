@@ -1,0 +1,4 @@
+# Ha a soron következő tároló üres akkor megpróbál lőni a másik tárolóbol
+GT4500,0,0,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

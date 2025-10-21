@@ -1,0 +1,4 @@
+# Váltott lövés de csak az elsődleges tárolóban van lövedék
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

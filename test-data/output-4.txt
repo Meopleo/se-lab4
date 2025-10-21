@@ -1,0 +1,2 @@
+SUCCESS  # GT4500
+FAIL  # TORPEDO nem lő az elsődleges tárolóból se a másodlagosból sem

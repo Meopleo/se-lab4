@@ -1,0 +1,3 @@
+SUCCESS  # GT4500
+SUCCESS  # TORPEDO az elsődleges tárolóból lő
+SUCCESS  # TORPEDO a másodlagos tárolóból lő

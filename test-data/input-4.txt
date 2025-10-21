@@ -1,0 +1,3 @@
+# ha a lött tároló hibát ad nem probál lőni a másik tárolóbol
+GT4500,1,1,1,0
+TORPEDO,SINGLE

@@ -1,0 +1,4 @@
+# SINGLE lövések váltogatják a tárolókat.
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
