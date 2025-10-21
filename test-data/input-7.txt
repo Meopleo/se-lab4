@@ -1,3 +1,4 @@
 # ALL parancs minden honnan
 GT4500,10,0,10,0
 TORPEDO,ALL
+TORPEDO,ALL
